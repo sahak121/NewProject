@@ -1,4 +1,4 @@
-{
+{dsf
 	"lesson1": {
 		"id": str,
 		"adminId": str,
